@@ -2,9 +2,9 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Hello World | 测试博客</title>
+  <title>git学习笔记 | 测试博客</title>
   <meta name="keywords" content="">
-  <meta name="description" content="Hello World | 测试博客">
+  <meta name="description" content="git学习笔记 | 测试博客">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="description" content="Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick">
 <meta property="og:type" content="article">
@@ -307,9 +307,9 @@
 </aside>
 <div class="post">
     <div class="pjax">
-        <article id="post-hello-world" class="article article-type-post" itemscope itemprop="blogPost">
+        <article id="post-新建的文章" class="article article-type-post" itemscope itemprop="blogPost">
     
-        <h1 class="article-title">Hello World</h1>
+        <h1 class="article-title">git学习笔记</h1>
     
     <div class="article-meta">
         
@@ -319,7 +319,7 @@
     </div>
     <div class="article-meta">
         
-            Created At : <time class="date" title='Updated At: 2020-05-22 20:04:40'>2020-05-22 20:04</time>
+            Created At : <time class="date" title='Updated At: 2020-05-22 20:19:22'>2020-05-22 20:18</time>
         
     </div>
     <div class="article-meta">
@@ -341,7 +341,7 @@
     
     <div class="toc-ref">
     
-        <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#Quick-Start"><span class="toc-text">Quick Start</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Create-a-new-post"><span class="toc-text">Create a new post</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Run-server"><span class="toc-text">Run server</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Generate-static-files"><span class="toc-text">Generate static files</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Deploy-to-remote-sites"><span class="toc-text">Deploy to remote sites</span></a></li></ol></li></ol>
+        <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#git学习笔记"><span class="toc-text">git学习笔记</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#项目的保存"><span class="toc-text">项目的保存</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#回滚错误的修改"><span class="toc-text">回滚错误的修改</span></a></li></ol></li></ol>
     
 <style>
     .left-col .switch-btn,
@@ -357,19 +357,122 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        <p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+        <h1 id="git学习笔记"><a href="#git学习笔记" class="headerlink" title="git学习笔记"></a>git学习笔记</h1><p>##git指令的简单介绍</p>
+<ol>
+<li>创建一个git：<br> 在当前项目文件夹下使用git init（当前项目文件夹可以不是空的）<br> 在远程服务器里（储存项目）的文件夹下使用git –bare init<br> –bare叫裸仓库，作为中央仓库而存在，不能成为工作的环境<br> 在指令的init后面可以加上这个库的名字，比如repo.git</li>
+<li>在本地工作区（working tree）修改文件，然后使用<code>git add &lt;filename&gt;</code>或者<code>git add *</code>来将本地修改好的文件送入缓冲区，再使用git commit -m “message”来提交到HEAD里，最后git push origin即可<ol>
+<li>注：这里的origin是自己制定的远程仓库的名字，在push之前使用<code>git remote add origin root@host:/path/</code>来制定origin是哪个远程仓库位置</li>
+<li>使用<code>git clone root@host:/path/</code>来克隆repo的时候，会将项目文件夹克隆到当前文件夹下</li>
+</ol>
+</li>
+</ol>
+<p>##git 的配置</p>
+<ol>
+<li>本Mac的system gitconfig 位置：/opt/local/etc/gitconfig</li>
+<li>在git的config里储存了系统、用户、仓库的配置信息，可以修改提交使用的姓名、邮箱、自定义的快捷键、默认的编辑器。三者config文件分别储存的位置为$(prefix)/etc/gitconfig、~/.gitconfig、当前仓库/.git/config</li>
+<li>使用的一些指令：<br> <code>git config user.name yjz
+ git config --global user.name yjz//修改这个用户的gitconfig
+ git config --system user.name yjz//修改这个系统的gitconfig
+ git config --global user.email aaa@126.com
+ git config --global core.editor vim
+ git config --global alias.st status//注意这里的命令不需要在前面加git，到时候直接用git st命令就可以了</code></li>
+<li>注意，当前仓库config优先级&gt;用户优先级&gt;系统优先级</li>
+</ol>
+<h2 id="项目的保存"><a href="#项目的保存" class="headerlink" title="项目的保存"></a>项目的保存</h2><ol>
+<li>git可以忽略一些文件或者目录，不保存他们的更改</li>
+<li>git add的一些操作<ol>
+<li>add只是将工作目录中的变化的文件送入了缓存区，告诉git想要在下一次提交时包含这个文件的更新，在使用git commit之前文件都没有被记录</li>
+<li><code>git add &lt;file&gt;/&lt;directory&gt;</code>将file中或某文件夹的更改加入缓存</li>
+<li><code>git add -i</code>交互式缓存</li>
+<li>当我们修改好之后，使用<code>git commit</code>提交到项目历史里去</li>
+<li>每次修改一个文件都要使用<code>git add</code></li>
+<li>可以add 路径</li>
+</ol>
+</li>
+<li>缓存区：当前的工作目录与项目历史之间的缓冲区。作用：可以将自己修改的内容按照逻辑划分，将相关的更改添加到缓存，一份一份提交，这样有利于追踪bug，有利于回滚项目的历史版本。（而不是将上次commit之后做的所有更改一并提交）<ol>
+<li>举个例子：你在今天对这个项目的不同模块进行了修改，但是你可以通过使用缓冲区，提交多次commit，每次commit只包含一个模块的内容，这样的话有利于以后检查bug/看历史版本的时候更加有条理性。</li>
+<li>git不会区分缓存的更改来自于新文件还是原来仓库中已有的文件</li>
+</ol>
+</li>
+<li>git commit<ol>
+<li>提交的快照是项目的安全版本，提交到本地仓库，不会和其他git仓库有交互</li>
+<li>已经跟踪过的文件是指使用git add的文件</li>
+<li><code>git commit</code>或<code>git commit -m &quot;message&quot;</code>或<code>git commit -a</code>。最后一个时提交一份包含工作目录所有更改的快照，只包含跟踪过的文件的更改</li>
+<li>在commit的message中，约定俗成的格式是：第一行用50个以内的字符总结，空一行，然后再详细阐述具体的更改</li>
+</ol>
+</li>
+</ol>
+<p>##仓库的状态</p>
+<ol>
+<li>git status<ol>
+<li>使用这个命令可以查看 哪些被缓存了，哪些没缓存，哪些没有追踪</li>
+<li>未追踪的文件可以设置被完全忽略，只需要将路径放在一个项目根目录的.gitignore文件里，单独写成一行<ol>
+<li>示例：*.cpp~</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>git log命令<ol>
+<li>显示已经提交的快照，作用于提交的项目历史</li>
+<li>会显示提交唯一的标识ID（如commit c5083f3f018c1b55824de6e24908ad14a81ef5d9）</li>
+<li>可以自定义git log的输出方式<ol>
+<li><code>git log</code>默认格式，超过一屏可以用空格滚动，q退出</li>
+<li><code>git log -n &lt;limit&gt;</code>用limit限制提交的数量，只显示最近的limit个提交</li>
+<li><code>git log --oneline</code>将每个提交压缩到一行</li>
+<li><code>git log --stat</code>再输出哪些文件被更改了，哪些行被更改了</li>
+<li><code>git log -p</code>显示每个提交全部的差异，最详细的视图</li>
+<li><code>git log --author=&quot;&lt;pattern&gt;&quot;</code>搜索指定作者的提交，可以使用正则表达式</li>
+<li><code>git log -grep=&quot;&lt;pattern&gt;&quot;</code>搜索提交信息匹配pattern的提交</li>
+<li><code>git log &lt;since&gt;..&lt;until&gt;</code>现实只发生在since和until之间的提交，二者可以是提交ID（分别对应提交ID的前半段和后半段）、分支名、HEAD或是其他引用。（HEAD总是指向当前的提交）</li>
+<li><code>git log &lt;file&gt;</code>特定文件的提交</li>
+<li><code>git log --graph --decorate --oneline</code>还有一些有用的选项。<code>--graph</code> 标记会绘制一幅字符组成的图形，左边是提交，右边是提交信息。<code>--decorate</code> 标记会加上提交所在的分支名称和标签。<code>--oneline</code> 标记将提交信息显示在同一行，一目了然。 </li>
+<li>使用<del>表示提交的父节点的相对引用。比如HEAD</del>3表示当前提交的回溯三个节点的提交</li>
+<li>以上的选项可以使用在同一个命令当中</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+<p>##检出之前的提交</p>
+<ol>
+<li>git checkout<ol>
+<li>将保存的快照加载到我们的开发机器上</li>
+<li>作用有：检出文件（查看某个特定文件的旧版本，而其他文件不变），检出提交（使工作目录与这个提交完全匹配，查看项目之前的状态，而不改变当前的状态），检出分支</li>
+<li><code>git checkout master</code>回到master分支</li>
+<li><code>git checkout &lt;commit&gt; &lt;file&gt;</code>查看文件之前的版本。它将工作目录中的<file>文件变成<commit>中那个文件的拷贝，并将它加入缓存区</li>
+<li><code>git checkout &lt;commit&gt;</code>更新工作目录中的所有文件</li>
+<li>检出之前的提交时只读操作，这时候HEAD指向一个提交。即使编辑文件也不会影响项目的当前状态，所做的一切都不会被保存到仓库中。回到master分支之后，可以使用git revert或git reset来回滚任何更改（下一节）</li>
+<li>但是，检出文件会影响项目当前的状态。旧版本变成了[需要提交的更改]。如果不想保留旧的版本，用<code>git checkout HEAD &lt;file&gt;</code>来返回去</li>
+</ol>
+</li>
+</ol>
+<h2 id="回滚错误的修改"><a href="#回滚错误的修改" class="headerlink" title="回滚错误的修改"></a>回滚错误的修改</h2><ol>
+<li>git revert <commit><ol>
+<li>生成了撤销了commit引入的更改的新提交，然后应用到当前分支，但是之前的被撤销的提交并没有被删除。（是回滚了单独一个提交，没有移除后面的提交，然后回到项目之前的状态），但是reset则是移除了后面的提交。</li>
+<li>没有改变项目历史</li>
+</ol>
+</li>
+<li>git reset<ol>
+<li>危险</li>
+<li><code>git reset &lt;file&gt;</code>从缓存区移除特定的文件，不改变工作目录，会取消这个文件的缓存，但不会覆盖更改</li>
+<li><code>git reset</code>重设缓冲区，匹配最近的一次提交，不改变工作目录，可以用来重设缓存快照</li>
+<li><code>git reset --hard</code>重写所有目录的更改—-清除所有未提交的更改</li>
+<li><code>git reset &lt;commit&gt;</code>将当前分支的末端移到commit，将缓存区重设到这个提交，不改变工作目录。所有commit之后的更改会保留在工作目录中，这允许你用更干净、原子性的快照重新提交项目历史。</li>
+<li><code>git reset --hard &lt;commit&gt;</code>缓存区和工作目录全部重设。清除了commit之后的全部提交</li>
+</ol>
+</li>
+<li>用一个新的提交来实现撤销</li>
+<li>git clean<ol>
+<li>将未跟踪的文件从工作目录中移除（无法撤销</li>
+<li>注意，reset只影响被跟踪的文件，所以还需要一个命令来清理未跟踪的文件，才能恢复到之前特定提交时的状态</li>
+<li><code>git clean -n</code>告诉你哪些文件将被移除</li>
+<li><code>git clean -f</code>移除未被跟踪的（-f必须加），并且不会删除.gitignore里面的文件</li>
+<li><code>git clean -f &lt;path&gt;</code>限制移除某路径下的文件</li>
+<li><code>git clean -df</code>移除未跟踪的文件和目录</li>
+<li><code>git clean -xf</code>移除未跟踪的和在gitignore里面的文件</li>
+</ol>
+</li>
+</ol>
 
       
        <hr><span style="font-style: italic;color: gray;"> 转载请注明来源，欢迎对文章中的引用来源进行考证，欢迎指出任何有错误或不够清晰的表达。可以在下面评论区评论，也可以邮件至 jaytp@qq.com </span>
