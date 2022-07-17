@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Jianzhu Yao"
 title_separator          : "-"
-name                     : &name "Jianzhu Yao"
-description              : &description "a personal description"
+name                     : &name "Personal Website"
+description              : 
 url                      : https://yao-jz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yao-jz/yao-jz.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Jianzhu Yao"
+  avatar           : "avatar.jpg"
+  bio              : "Undergraduate at the Department of Computer Science and Technology, Tsinghua University"
+  location         : "Beijing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : 
+  email            : "cnyaojz@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -184,7 +184,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  research:
     output: true
     permalink: /:collection/:path/
 
@@ -239,11 +239,13 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: research
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
+      comment: true
+  
 
 # Sass/SCSS
 sass:
