@@ -1,5 +1,5 @@
 ---
-title: "Workshop of Multimodal Machine Learning PLUS MoE, Tsinghua University"
+title: "Workshop of Multimodal Machine Learning + MoE, Tsinghua University"
 collection: research
 type: 'Workshop'
 permalink: /research/2022-06-01-zhouworkshop

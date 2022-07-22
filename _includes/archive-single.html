@@ -47,7 +47,7 @@
         {% elsif post.collection == 'publications' %}
           <p><i>{{ post.venue }}</i></p>
         {% elsif post.collection == 'research' %}
-        <p> {{ post.type }}
+        <p> {{ post.type }} {{post.content}}
           {% if post.startdate %}
           , {{ post.startdate }}
           -
