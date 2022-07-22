@@ -71,8 +71,13 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
 
-    {% if post.collection == 'research' %}
+    <!-- {% if post.collection == 'research' %}
         <p>{{post.content}}</p>
+    {% endif %} -->
+    {% if post.collection == 'research' %}
+    <section class="page__content" itemprop="text">
+      {{ content }}
+    </section>
     {% endif %}
 
     <!-- {% if post.citation and post.paperurl %}
