@@ -15,7 +15,7 @@ For Natural Langugae Processing, most of my previous research focus on the dialo
 
 I am now a research intern at [NLP group](https://www.cs.washington.edu/research/nlp) of [University of Washington](https://www.cs.washington.edu/), Seattle, working with Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang/), working on biomedical definition faithfulness evaluation. Before that, I am honored to work with Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml) in [CoAI](http://coai.cs.tsinghua.edu.cn/) group, where I led a research topic independently, finished my first first-author paper, and contributed to an Open-Domain Dialogue System [EVA1.0 and EVA2.0](https://github.com/thu-coai/EVA).
 
-I also interned at Microsoft Research Asia ([MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)), Natural Language Computing Group, working with Dr. [Tao Ge](https://www.microsoft.com/en-us/research/people/tage/).
+I also interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) (MSRA), Natural Language Computing Group, working with Dr. [Tao Ge](https://www.microsoft.com/en-us/research/people/tage/).
 
 Publications
 ============
@@ -26,12 +26,14 @@ Publications
 
 *EMNLP 2022, under review*
 
-[EVA2.0: Investigating Open-Domain Chinese Dialogue Systems with Large-Scale Pre-Training](https://arxiv.org/abs/2203.09313)
+Propose two tasks **DialGen** and **DialSpk** to evaluate the model's ability of understanding and generating dialogue between characters in stories. We also built a new dataset **DIalStory**, which consists of 105k Chinese stories with a large amount of dialogue weaved into the plots to support the evaluation. We also proposed to learn explicit character representations to improve performance on these tasks.
+
+EVA2.0: Investigating Open-Domain Chinese Dialogue Systems with Large-Scale Pre-Training
 ----------------------------------------------------------------------------------------
 
 Yuxian Gu, Jiaxin Wen, Hao Sun, Yi Song, Pei Ke, Chujie Zheng, Zheng Zhang, **Jianzhu Yao**, Xiaoyan Zhu, Jie Tang, Minlie Huang
 
-*arXiv:2203.09313*
+*arXiv:2203.09313, EMNLP 2022, under review*
 
 Propose **EVA2.0**, a large-scale pre-trained open-domain Chinese dialogue model with 2.8 billion parameters, which is also the largest open-source Chinese dialogue model. We also conduct extensive experiments to investigate some decoding strategies, and prevent the contradict generation of our system.
 
