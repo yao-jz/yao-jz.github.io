@@ -11,6 +11,8 @@ year: 2022
 
 The main topic of this workshop is multimodal machine learning. First, I
 
+Second, I
+
 ### Multimodal Machine Learning
 
 ### MMMoE: Advancing Multimodal Mixture-of-Experts Architecture to Power Next-Generation Multimodal Paradigm

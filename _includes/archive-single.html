@@ -72,8 +72,9 @@
     {% endif %}
 
     {% if post.collection == 'research' %}
-      {{ post.content }}
+        <section class="page__content" itemprop="text">
+      {{ post.content }}</section>
     {% endif %}
-    
+
   </article>
 </div>
