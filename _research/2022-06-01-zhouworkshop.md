@@ -1,5 +1,5 @@
 ---
-title: "Workshop of Multimodal Machine Learning + MoE, Tsinghua University<img src='/images/logos/tsinghua.png'>"
+title: "Workshop of Multimodal Machine Learning + MoE, Tsinghua University<img src='/images/logos/tsinghua.png' height="50" width="50">"
 collection: research
 type: 'Workshop'
 excerpt: ''
