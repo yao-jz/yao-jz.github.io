@@ -1,5 +1,5 @@
 ---
-title: "Wang Lab, University of Washington, Seattle"
+title: "Wang Lab, University of Washington, Seattle<img src='/images/logos/uw.png'>"
 collection: research
 type: 'Research Intern'
 excerpt: ''
