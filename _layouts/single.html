@@ -37,7 +37,7 @@ layout: default
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.collection == 'research' %}
-          <p> {{ page.type }}
+          <p> <i>{{ page.type }}
             {% if page.startdate %}
             , {{ page.startdate }}
             -
@@ -46,7 +46,7 @@ layout: default
               {% if page.year %}
               , {{ page.year }}
               {% endif %}
-            {% endif %}
+            {% endif %}</i>
           </p>
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
