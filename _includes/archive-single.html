@@ -47,13 +47,15 @@
         {% elsif post.collection == 'publications' %}
           <p><i>{{ post.venue }}</i></p>
         {% elsif post.collection == 'research' %}
-        <p> {{ post.type }}, 
+        <p> {{ post.type }}
           {% if post.startdate %}
-          <time datetime="{{ post.startdate | default: "1900-01-01" | date_to_xmlschema }}">{{ post.startdate | default: "1900-01-01" | date: "%B %d, %Y" }}</time>
+          , {{ post.startdate }}
           -
-          <time datetime="{{ post.enddate | default: "1900-01-01" | date_to_xmlschema }}">{{ post.enddate | default: "1900-01-01" | date: "%B %d, %Y" }}</time>
+          {{ post.enddate }}
           {% else %}
-          
+            {% if post.year %}
+              {{ post.year }}
+            {% endif %}
           {% endif %}
         </p>
         {% elsif post.date %}
