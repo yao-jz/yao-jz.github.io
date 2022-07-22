@@ -181,13 +181,16 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  photograph:
     output: true
     permalink: /:collection/:path/
   research:
     output: true
     permalink: /:collection/:path/
   talk:
+    output: true
+    permalink: /:collection/:path/
+  projects:
     output: true
     permalink: /:collection/:path/
 
@@ -230,10 +233,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _photograph
   - scope:
       path: ""
-      type: portfolio
+      type: photograph
     values:
       layout: single
       author_profile: true
@@ -257,7 +260,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 
 # Sass/SCSS
 sass:
