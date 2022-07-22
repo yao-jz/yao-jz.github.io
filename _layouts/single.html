@@ -37,14 +37,14 @@ layout: default
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.collection == 'research' %}
-          <p> {{ post.type }}
-            {% if post.startdate %}
-            , {{ post.startdate }}
+          <p> {{ page.type }}
+            {% if page.startdate %}
+            , {{ page.startdate }}
             -
-            {{ post.enddate }}
+            {{ page.enddate }}
             {% else %}
-              {% if post.year %}
-              , {{ post.year }}
+              {% if page.year %}
+              , {{ page.year }}
               {% endif %}
             {% endif %}
           </p>
