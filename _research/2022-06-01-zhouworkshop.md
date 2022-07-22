@@ -9,7 +9,7 @@ year: 2022
 
 ##
 
-The main topic of this workshop is multimodal machine learning. At the same time, inspired by the [LIMoE](https://ai.googleblog.com/2022/06/limoe-learning-multiple-modalities-with.html) proposed by Google recently,
+The main topic of this workshop is Multimodal Machine Learning. At the same time, inspired by the [LIMoE](https://ai.googleblog.com/2022/06/limoe-learning-multiple-modalities-with.html) proposed by Google recently, I am quite excited about the the combination
 
 Second, I
 
