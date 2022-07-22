@@ -20,7 +20,7 @@ I also interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/res
 Publications
 ============
 
-## [A Benchmark for Understanding and Generating Dialogue between Characters in Stories]()
+## [A Benchmark for Understanding and Generating Dialogue between Characters in Stories](https://yao-jz.github.io/publications/)
 
 **Jianzhu Yao**, Ziqi Liu, Jian Guan, Minlie Huang
 
@@ -28,7 +28,7 @@ Publications
 
 Propose two tasks **DialGen** and **DialSpk** to evaluate the model's ability of understanding and generating dialogue between characters in stories. We also built a new dataset **DIalStory**, which consists of 105k Chinese stories with a large amount of dialogue weaved into the plots to support the evaluation. We also proposed to learn explicit character representations to improve performance on these tasks.
 
-[EVA2.0: Investigating Open-Domain Chinese Dialogue Systems with Large-Scale Pre-Training]()
+[EVA2.0: Investigating Open-Domain Chinese Dialogue Systems with Large-Scale Pre-Training](https://yao-jz.github.io/publications/)
 ----------------------------------------------------------------------------------------
 
 Yuxian Gu, Jiaxin Wen, Hao Sun, Yi Song, Pei Ke, Chujie Zheng, Zheng Zhang, **Jianzhu Yao**, Xiaoyan Zhu, Jie Tang, Minlie Huang

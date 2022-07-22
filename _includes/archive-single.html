@@ -30,9 +30,11 @@
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% elsif post.collection == 'publications' %}
-        <a href="" rel="permalink">{{ title }}</a>
+        <a rel="permalink">{{ title }}</a>
       {% elsif post.collection == 'photograph' %}
-        <a href="" rel="permalink">{{ title }}</a>
+        <a rel="permalink">{{ title }}</a>
+      {% elsif post.collection == 'research' %}
+        <a rel="permalink">{{ title }}</a>
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
@@ -66,6 +68,10 @@
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+    {% endif %}
+
+    {% if post.collection == 'research' %}
+        <p>{{post.content}}</p>
     {% endif %}
     
     <!-- {% if post.citation and post.paperurl %}
