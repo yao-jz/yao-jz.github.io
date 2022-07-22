@@ -46,7 +46,7 @@ Propose **EVA2.0**, a large-scale pre-trained open-domain Chinese dialogue model
 3. Member of winter swimming Association of Tsinghua University (from 2021)
 4. Member of swimming team of CST in Tsinghua University (2019)
 
-# Awards and Honors
+# Selected Awards and Honors
 
 1. Tsinghua University Academic Excellence Award, 2020
 2. 37th National Physics Competition for College Students in Beijing, China, First Prize, 2021
