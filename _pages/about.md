@@ -35,7 +35,7 @@ Yuxian Gu, Jiaxin Wen, Hao Sun, Yi Song, Pei Ke, Chujie Zheng, Zheng Zhang, **Ji
 
 *arXiv:2203.09313, EMNLP 2022, under review*
 
-Propose **EVA2.0**, a large-scale pre-trained open-domain Chinese dialogue model with 2.8 billion parameters, which is also the largest open-source Chinese dialogue model. We also conduct extensive experiments to investigate some decoding strategies, and prevent the contradict generation of our system.
+Propose **EVA2.0**, a large-scale pre-trained open-domain Chinese dialogue model with 2.8 billion parameters, which is also the largest open-source Chinese dialogue model. We also conduct extensive experiments to investigate some decoding strategies, and prevent the contradictory generation of our system.
 
 [pdf](https://arxiv.org/pdf/2203.09313.pdf) / [code](https://github.com/thu-coai/EVA)
 
