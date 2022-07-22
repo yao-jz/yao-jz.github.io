@@ -13,4 +13,4 @@ In Wang Lab, I first came across the biomedical × NLP research. I found myself 
 
 ### Biomedical Terminology Definition Generation Evaluation metrics for Faithfulness and AMR-based Generation approach
 
-Existing automatic evaluation metrics like BLEU or ROUGH can't evaluate the faithfulness and accuracy of the definition perfectly. So we try to design semantic-level evaluation metrics for factual and keywords problem of the generated definition. And we also try to use the AMR to facilitate the definition generation. 
+Existing automatic evaluation metrics like BLEU or ROUGH can't evaluate the faithfulness and accuracy of the definition perfectly. So we try to design semantic-level evaluation metrics for factual and keywords problem of the generated definition. And we also try to use the AMR to facilitate the definition generation.
