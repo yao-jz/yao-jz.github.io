@@ -1,5 +1,5 @@
 ---
-title: "Wang Lab, University of Washington, Seattle<img src='/images/logos/uw.png' height='50' width='50'>"
+title: "Wang Lab, University of Washington, Seattle  <img src='/images/logos/uw.png' height='50' width='50'>"
 collection: research
 type: 'Research Intern'
 excerpt: ''
@@ -9,3 +9,4 @@ startdate: "July 01, 2022"
 enddate: "now"
 ---
 
+In Wang Lab, I first came across the biomedical × NLP research. I found myself also interested in the biomedical cross field.
