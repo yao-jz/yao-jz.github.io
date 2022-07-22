@@ -7,9 +7,9 @@ date: 2022-06-01
 year: 2022
 ---
 
+##
 
-
-In this workshop,
+The main topic of this workshop is multimodal machine learning. First, I
 
 ### Multimodal Machine Learning
 
