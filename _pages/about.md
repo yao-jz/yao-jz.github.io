@@ -42,11 +42,11 @@ Propose **EVA2.0**, a large-scale pre-trained open-domain Chinese dialogue model
 # Service and Membership
 
 1. EMNLP 2022 Review Committee for the track Dialogue and Interactive Systems (2022)
-2. Member of the Bodybuilding team of Tsinghua University (from 2022)
-3. Member of the winter swimming Association of Tsinghua University (from 2021)
+2. Member of the Bodybuilding Team of Tsinghua University (from 2022)
+3. Member of the Winter Swimming Association of Tsinghua University (from 2021)
 4. Member of swimming team of CST in Tsinghua University (2019)
 
-# Selected Awards and Honors
+# Selected Honors and Awards
 
 1. Tsinghua University Academic Excellence Award, 2020
 2. 37th National Physics Competition for College Students in Beijing, China, First Prize, 2021
