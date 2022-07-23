@@ -54,7 +54,7 @@ Propose **EVA2.0**, a large-scale pre-trained open-domain Chinese dialogue model
 
 # Hobbies
 
-I like most kinds of sports, like running, winter swimming, swimming, bodybuilding, football, basketball, etc. I have completed half marathons and 10k races, and now I am also preparing for the 2022 Capital University student Bodybuilding and Fitness Competition. Sports make me full of energy and motivation in my research life and it can even promote my ability to think creatively.
+I like most kinds of sports, like running, dancing, winter swimming, swimming, bodybuilding, football, basketball, etc. I have completed half marathons and 10k races, and now I am also preparing for the 2022 Capital University student Bodybuilding and Fitness Competition. Sports make me full of energy and motivation in my research life and it can even promote my ability to think creatively.
 
 <!-- ```
 Example: editing a markdown file for a talk
