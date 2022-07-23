@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hello, I'm Jianzhu Yao!
 
-I am a junior undergraduate student at the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interests mainly focus on Natural Language Processing and Machine Learning. I also have broad interests in Mixture of Experts, Multimodal Machine Learning, Computer Vision, and Distributed Computing techniques for Deep Learning models.
+I am a junior undergraduate student at the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). My primary research interests are in the fields of Natural Language Processing and Machine Learning. I also have broad interests in Mixture of Experts, Multimodal Machine Learning, Computer Vision, and Distributed Computing techniques for Deep Learning models.
 
 For Natural Language Processing, most of my previous research focuses on the dialogue system, consistency and faithful problems, NLP in the story domain and biomedical domain. I am also very excited about the research field of **Language + {Vision, Multimodal Information, Knowledge, Memory, MoE...}**.
 
