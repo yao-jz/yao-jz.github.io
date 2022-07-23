@@ -1,6 +1,6 @@
 ---
 title: "Photos of my winter swimming"
-excerpt: "Taken in winter of 2021(me on the far left)<br> <img src='/images/photograph/win_pic2.JPG' width='700'>"
+excerpt: "Taken in winter of 2021(me on the far left)<br><br> <img src='/images/photograph/win_pic2.JPG' width='700'>"
 collection: photograph
 ---
 

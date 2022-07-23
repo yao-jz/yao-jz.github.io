@@ -1,6 +1,6 @@
 ---
 title: "Photos of my internship in Microsoft Research Asia"
-excerpt: "Taken in spring of 2022 <br><img src='/images/photograph/msra_compu.JPG' width='700'>"
+excerpt: "Taken in spring of 2022 <br><br><img src='/images/photograph/msra_compu.JPG' width='700'>"
 collection: photograph
 ---
 
