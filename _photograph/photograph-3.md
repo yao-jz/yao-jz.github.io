@@ -12,7 +12,7 @@ Although the pool is frozen in winter, we can break the ice, and the water tempe
 
 Swimming outside in winter is very refreshing and relaxing. And in the winter swimming association, I made lots of friends. We share the swimming experience and interesting things in our life.
 
-![win_pic2](/images/photograph/win_pic2.png)
+![win_pic1](/images/photograph/win_pic1.JPG)
 
 I also won some awards in winter swimming.
 
