@@ -1,5 +1,6 @@
 ---
-title: "photograph item number 1"
-excerpt: "Short description of photograph item number 1<br/><img src='/images/500x300.png'>"
+title: "Photos of my winter swimming"
+excerpt: "Taken in winter of 2021"
 collection: photograph
 ---
+
