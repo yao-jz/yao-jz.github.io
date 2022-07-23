@@ -1,7 +1,6 @@
 ---
-title: "Photos of my internship in Microsoft Research Asia"
-excerpt: "Taken in spring of 2022"
+title: "Photos of Tsinghua University"
+excerpt: "Taken in spring of 2021, 2022"
 collection: photograph
 ---
-
 

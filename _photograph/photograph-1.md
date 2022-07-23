@@ -1,10 +1,7 @@
 ---
-title: "Photos of my winter swimming"
-excerpt: "Taken in winter of 2021(me on the far left)<br> <img src='/images/photograph/win_pic2.JPG' width='500' height='300'>"
+title: "Photos of my internship in Microsoft Research Asia"
+excerpt: "Taken in spring of 2022"
 collection: photograph
 ---
 
-Although the pool is frozen in winter, we can break the ice, and the water temperature is about three degrees.
-
-![ice](/images/photograph/ice.png)
 
