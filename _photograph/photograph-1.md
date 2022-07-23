@@ -4,7 +4,7 @@ excerpt: "Taken in spring of 2022 <br><br><img src='/images/photograph/msra_comp
 collection: photograph
 ---
 
-In Microsoft Research Asia, the working environment is quite different from the lab in Tsinghua University. The environment is more comfortable, and there are many colleagues to share new papers and exchange ideas on our research.
+In Microsoft Research Asia, the working environment is quite different from the lab at Tsinghua University. The environment is more comfortable, and there are many colleagues to share new papers and exchange ideas on our research.
 
 ![msra_rooms](/images/photograph/msra_rooms.png)
 
@@ -12,4 +12,4 @@ With sufficient computing resources, I can independently design and conduct expe
 
 ![msra_compu](/images/photograph/msra_compu.JPG)
 
-Their support and enthusiasm for research enrich my existing knowledge by a large step and broaden my horizons. I am deeply impressed by their ability to capture hot topics in academic frontiers and I have gained a lot.
+Their support and enthusiasm for research enrich my existing knowledge by a large step and broaden my horizons. I am deeply impressed by their ability to capture hot topics on academic frontiers and I have gained a lot.

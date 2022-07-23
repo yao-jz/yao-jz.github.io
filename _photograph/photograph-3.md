@@ -4,7 +4,7 @@ excerpt: "Taken in winter of 2021(me on the far left)<br><br> <img src='/images/
 collection: photograph
 ---
 
-Winter Swimming Association in Tsinghua University is mainly composed of elderly teachers and graduate students, and we often go swimming together no matter raining or snowing.
+Winter Swimming Association at Tsinghua University is mainly composed of elderly teachers and graduate students, and we often go swimming together no matter raining or snowing.
 
 ![win_pic1](/images/photograph/win_pic2.JPG)
 
