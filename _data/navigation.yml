@@ -19,7 +19,7 @@ main:
     url: /photograph/
         
   - title: "CV"
-    url: /cv/cv.pdf
+    url: /files/cv.pdf
     
   # - title: "Guide"
   #   url: /markdown/
