@@ -11,7 +11,7 @@ Hello, I'm Jianzhu Yao!
 
 I am a junior undergraduate student at the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). My primary research interests are in the fields of Natural Language Processing and Machine Learning. I also have broad interests in Mixture of Experts, Multimodal Machine Learning, Computer Vision, and Distributed Computing techniques for Deep Learning models.
 
-For Natural Language Processing, most of my previous research focuses on the dialogue system, consistency and faithful problems, NLP in the story domain and biomedical domain. I am also very excited about the research field of **Language + {Vision, Multimodal Information, Knowledge, Memory, MoE...}**.
+For Natural Language Processing, most of my previous research focuses on the dialogue system, consistency and faithful problems, NLP in the story domain and biomedical domain. I am also very excited about the research field of Language + {Vision, Multimodal Information, Knowledge, Memory, MoE...}.
 
 I am now a research intern at [NLP group](https://www.cs.washington.edu/research/nlp) of [University of Washington](https://www.cs.washington.edu/), Seattle, working with Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang/), working on biomedical definition faithfulness evaluation. Before that, I am honored to work with Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml) in [CoAI](http://coai.cs.tsinghua.edu.cn/) group, where I led a research topic independently, finished my first first-author paper, and contributed to an Open-Domain Dialogue System [EVA1.0 and EVA2.0](https://github.com/thu-coai/EVA).
 
