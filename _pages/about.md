@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hello, I'm Jianzhu Yao!
 
-I am a junior undergraduate student at the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). My primary research interests are in the fields of Natural Language Processing and Machine Learning. I also have broad interests in Mixture of Experts, Multimodal Machine Learning, Computer Vision, and Distributed Computing techniques for Deep Learning models.
+I am a senior undergraduate student at the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). My primary research interests are in the fields of Natural Language Processing and Machine Learning. I also have broad interests in Mixture of Experts, Multimodal Machine Learning, Computer Vision, and Distributed Computing techniques for Deep Learning models.
 
 For Natural Language Processing, most of my previous research focuses on the dialogue system, consistency and faithful problems, NLP in the story domain and biomedical domain. I am also very excited about the research field of Language + {Vision, Multimodal Information, Knowledge, Memory, MoE...}.
 
@@ -24,7 +24,7 @@ Publications
 
 **Jianzhu Yao**, Ziqi Liu, Jian Guan, Minlie Huang
 
-*EMNLP 2022, under review*
+*AAAI 2023, under review*
 
 Propose two tasks **DialGen** and **DialSpk** to evaluate the model's ability of understanding and generating dialogue between characters in stories. We also built a new dataset **DIalStory**, which consists of 105k Chinese stories with a large amount of dialogue weaved into the plots to support the evaluation. We also proposed learning explicit character representations to improve performance on these tasks.
 
