@@ -13,7 +13,7 @@ I am a senior undergraduate student at the [Department of Computer Science and T
 
 For Natural Language Processing, most of my previous research focuses on the dialogue system, consistency and faithful problems, NLP in the story domain and biomedical domain. I am also very excited about the research field of Language + {Vision, Multimodal Information, Knowledge, Memory, MoE...}.
 
-I am now a research intern at [NLP group](https://www.cs.washington.edu/research/nlp) of [University of Washington](https://www.cs.washington.edu/), Seattle, working with Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang/), working on biomedical definition faithfulness evaluation. Before that, I am honored to work with Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml) in [CoAI](http://coai.cs.tsinghua.edu.cn/) group, where I led a research topic independently, finished my first first-author paper, and contributed to an Open-Domain Dialogue System [EVA1.0 and EVA2.0](https://github.com/thu-coai/EVA).
+I am now a research intern at [NLP group](https://www.cs.washington.edu/research/nlp) of [University of Washington](https://www.cs.washington.edu/), Seattle, working with Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang/), working on biomedical information retrieval and definition faithfulness evaluation. Before that, I am honored to work with Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml) in [CoAI](http://coai.cs.tsinghua.edu.cn/) group, where I led a research topic independently, finished my first first-author paper, and contributed to an Open-Domain Dialogue System [EVA1.0 and EVA2.0](https://github.com/thu-coai/EVA).
 
 I also interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) (MSRA), Natural Language Computing Group, working with Dr. [Tao Ge](https://www.microsoft.com/en-us/research/people/tage/).
 
@@ -26,7 +26,7 @@ Publications
 
 *AAAI 2023, under review*
 
-Propose two tasks **DialGen** and **DialSpk** to evaluate the model's ability of understanding and generating dialogue between characters in stories. We also built a new dataset **DIalStory**, which consists of 105k Chinese stories with a large amount of dialogue weaved into the plots to support the evaluation. We also proposed learning explicit character representations to improve performance on these tasks.
+Propose two tasks **DialGen** and **DialSpk** to evaluate the model's ability of understanding and generating dialogue between characters in stories. We built a new dataset **DIalStory**, which consists of 105k Chinese stories with a large amount of dialogue weaved into the plots to support the evaluation. We also proposed learning explicit character representations to improve performance on these tasks.
 
 [EVA2.0: Investigating Open-Domain Chinese Dialogue Systems with Large-Scale Pre-Training](https://yao-jz.github.io/publications/)
 ----------------------------------------------------------------------------------------
@@ -41,7 +41,7 @@ Propose **EVA2.0**, a large-scale pre-trained open-domain Chinese dialogue model
 
 # Service and Membership
 
-1. EMNLP 2022 Review Committee for the track Dialogue and Interactive Systems (2022)
+1. Reviewer (EMNLP 2022)
 2. Member of the Bodybuilding Team of Tsinghua University (from 2022)
 3. Member of the Winter Swimming Association of Tsinghua University (from 2021)
 4. Member of swimming team of CST in Tsinghua University (2019)
