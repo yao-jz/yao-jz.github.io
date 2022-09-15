@@ -33,7 +33,7 @@ Propose two tasks **DialGen** and **DialSpk** to evaluate the model's ability of
 
 Yuxian Gu, Jiaxin Wen, Hao Sun, Yi Song, Pei Ke, Chujie Zheng, Zheng Zhang, **Jianzhu Yao**, Xiaoyan Zhu, Jie Tang, Minlie Huang
 
-*arXiv:2203.09313, EMNLP 2022, under review*
+*arXiv:2203.09313*
 
 Propose **EVA2.0**, a large-scale pre-trained open-domain Chinese dialogue model with 2.8 billion parameters, which is also the largest open-source Chinese dialogue model. We also conduct extensive experiments to investigate some decoding strategies and prevent the contradictory generation of our system.
 
