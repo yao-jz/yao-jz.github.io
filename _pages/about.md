@@ -28,6 +28,8 @@ Publications
 
 Propose two tasks **DialGen** and **DialSpk** to evaluate the model's ability of understanding and generating dialogue between characters in stories. We built a new dataset **DIalStory**, which consists of 105k Chinese stories with a large amount of dialogue weaved into the plots to support the evaluation. We also proposed learning explicit character representations to improve performance on these tasks.
 
+[pdf](https://arxiv.org/pdf/2209.08524.pdf)
+
 [EVA2.0: Investigating Open-Domain Chinese Dialogue Systems with Large-Scale Pre-Training](https://yao-jz.github.io/publications/)
 ----------------------------------------------------------------------------------------
 
