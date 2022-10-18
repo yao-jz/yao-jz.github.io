@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jianzhu Yao"
+title: "Homepage"
 excerpt: "About me: Jianzhu Yao"
 author_profile: true
 redirect_from: 
@@ -9,11 +9,9 @@ redirect_from:
 ---
 Hello, I'm Jianzhu Yao!
 
-I am a senior undergraduate student at the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). My primary research interests are in the fields of Natural Language Processing and Machine Learning. I also have broad interests in Mixture of Experts, Multimodal Machine Learning, Computer Vision, and Distributed Computing techniques for Deep Learning models.
+I am a senior undergraduate student at the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). My primary research interests are in the fields of Natural Language Processing and Multimodal Machine Learning. I also have broad interests in Mixture of Experts, and Distributed Computing techniques for Deep Learning models.
 
-For Natural Language Processing, most of my previous research focuses on the dialogue system, consistency and faithful problems, NLP in the story domain and biomedical domain. I am also very excited about the research field of Language + {Vision, Multimodal Information, Knowledge, Memory, MoE...}.
-
-I am now a research intern at [NLP group](https://www.cs.washington.edu/research/nlp) of [University of Washington](https://www.cs.washington.edu/), Seattle, working with Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang/), working on biomedical information retrieval and definition faithfulness evaluation. Before that, I am honored to work with Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml) in [CoAI](http://coai.cs.tsinghua.edu.cn/) group, where I led a research topic independently, finished my first first-author paper, and contributed to an Open-Domain Dialogue System [EVA1.0 and EVA2.0](https://github.com/thu-coai/EVA).
+I am now a research intern at Zhou Group in Tsinghua University, advised by Prof. [Bowen Zhou](https://scholar.google.com/citations?hl=en&user=h3Nsz6YAAAAJ), working on the helpfulness prediction and fake detection of multimodal reviews. Before that, I am honored to work in the [NLP group](https://www.cs.washington.edu/research/nlp) of [University of Washington](https://www.cs.washington.edu/), Seattle, working with Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang/), working on biomedical information retrieval and dataset recommendations. I am also honored to work with Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml) in [CoAI](http://coai.cs.tsinghua.edu.cn/) group, where I constructed a story dialogue dataset, and contributed to an Open-Domain Dialogue System [EVA1.0 and EVA2.0](https://github.com/thu-coai/EVA).
 
 I also interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) (MSRA), Natural Language Computing Group, working with Dr. [Tao Ge](https://www.microsoft.com/en-us/research/people/tage/).
 
@@ -26,7 +24,7 @@ Publications
 
 *AAAI 2023, under review*
 
-Propose two tasks **DialGen** and **DialSpk** to evaluate the model's ability of understanding and generating dialogue between characters in stories. We built a new dataset **DIalStory**, which consists of 105k Chinese stories with a large amount of dialogue weaved into the plots to support the evaluation. We also proposed learning explicit character representations to improve performance on these tasks.
+Propose two tasks **DialGen** and **DialSpk** to evaluate the model's ability of understanding and generating dialogue between characters in stories. We built a new dataset **DialStory**, which consists of 105k Chinese stories with a large amount of dialogue weaved into the plots to support the evaluation. We also proposed learning explicit character representations to improve performance on these tasks.
 
 [pdf](https://arxiv.org/pdf/2209.08524.pdf)
 
@@ -45,7 +43,7 @@ Propose **EVA2.0**, a large-scale pre-trained open-domain Chinese dialogue model
 
 1. Reviewer (EMNLP 2022)
 2. Member of the Bodybuilding Team of Tsinghua University (from 2022)
-3. Member of the Winter Swimming Association of Tsinghua University (from 2021)
+3. Vice President of the Student Winter Swimming Association of Tsinghua University (from 2021)
 4. Member of swimming team of CST in Tsinghua University (2019)
 
 # Selected Honors and Awards
@@ -57,8 +55,3 @@ Propose **EVA2.0**, a large-scale pre-trained open-domain Chinese dialogue model
 # Hobbies
 
 I like most kinds of sports, like running, dancing, winter swimming, swimming, bodybuilding, football, basketball, etc. I have completed half marathons and 10k races, and now I am also preparing for the 2022 Capital University student Bodybuilding and Fitness Competition. Sports make me full of energy and motivation in my research life and they can even promote my ability to think creatively.
-
-<!-- ```
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-``` -->
