@@ -48,9 +48,10 @@ Propose **EVA2.0**, a large-scale pre-trained open-domain Chinese dialogue model
 
 # Selected Honors and Awards
 
-1. Tsinghua University Academic Excellence Award, 2020
-2. 37th National Physics Competition for College Students in Beijing, China, First Prize, 2021
-3. The first prize of Tsinghua University Engineering Technology Challenge, 2019
+1. Tsinghua University Sports Excellence Award, 2022
+2. Tsinghua University Academic Excellence Award, 2020
+3. 37th National Physics Competition for College Students in Beijing, China, First Prize, 2021
+4. The first prize of Tsinghua University Engineering Technology Challenge, 2019
 
 # Hobbies
 
