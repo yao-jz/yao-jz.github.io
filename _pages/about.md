@@ -22,7 +22,7 @@ Publications
 
 **Jianzhu Yao**, Ziqi Liu, Jian Guan, Minlie Huang
 
-*AAAI 2023, under review*
+*ACL 2023, under review*
 
 Propose two tasks **DialGen** and **DialSpk** to evaluate the model's ability of understanding and generating dialogue between characters in stories. We built a new dataset **DialStory**, which consists of 105k Chinese stories with a large amount of dialogue weaved into the plots to support the evaluation. We also proposed learning explicit character representations to improve performance on these tasks.
 
