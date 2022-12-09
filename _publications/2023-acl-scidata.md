@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "SciData: Dataset and Method for Scientific Dataset Recommendation"
 collection: publications
 author: "<b>Jianzhu Yao\*</b>, Zichun Yu\*(equal contribution), Haihong Tang, Jinxiong Xia, Zequn Liu, Sheng Wang"
@@ -7,4 +7,4 @@ excerpt: 'In order to advance scientific discovery, it is essential to answer sc
 date: 2022-12-09
 venue: 'Submitted to The 61st Annual Meeting of the Association for Computational Linguistics. ACL 2023.'
 citation: ''
----
+--- -->
