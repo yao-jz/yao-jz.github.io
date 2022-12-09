@@ -18,6 +18,14 @@ I also interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/res
 Publications
 ============
 
+## [SciData: Dataset and Method for Scientific Dataset Recommendation](https://yao-jz.github.io/publications/)
+
+**Jianzhu Yao\***, Zichun Yu\*(equal contribution), Haihong Tang, Jinxiong Xia, Zequn Liu, Sheng Wang
+
+*Submitted to The 61st Annual Meeting of the Association for Computational Linguistics. (ACL 2023)*
+
+Constructed a novel scientific dataset recommendation **dataset** for scientific QA using the open pre-trained transformer (OPT-1.3B), with 43466 scientific datasets and over 200K questions. We proposed a **recursive retrieval** approach for the dataset recommendation task, outperforming strong baselines by a large margin. We also illustrated how our dataset can be used for citation prediction and improve existing scientific QA systems in low-resource settings.
+
 ## [A Benchmark for Understanding and Generating Dialogue between Characters in Stories](https://yao-jz.github.io/publications/)
 
 **Jianzhu Yao**, Ziqi Liu, Jian Guan, Minlie Huang
