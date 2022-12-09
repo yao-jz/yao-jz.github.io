@@ -22,7 +22,7 @@ Publications
 
 **Jianzhu Yao**, Ziqi Liu, Jian Guan, Minlie Huang
 
-*ACL 2023, under review*
+*Submitted to The 61st Annual Meeting of the Association for Computational Linguistics. (ACL 2023)*
 
 Propose two tasks **DialGen** and **DialSpk** to evaluate the model's ability of understanding and generating dialogue between characters in stories. We built a new dataset **DialStory**, which consists of 105k Chinese stories with a large amount of dialogue weaved into the plots to support the evaluation. We also proposed learning explicit character representations to improve performance on these tasks.
 
@@ -33,7 +33,7 @@ Propose two tasks **DialGen** and **DialSpk** to evaluate the model's ability of
 
 Yuxian Gu, Jiaxin Wen, Hao Sun, Yi Song, Pei Ke, Chujie Zheng, Zheng Zhang, **Jianzhu Yao**, Xiaoyan Zhu, Jie Tang, Minlie Huang
 
-*arXiv:2203.09313*
+*Machine Intelligence Research, 2022*
 
 Propose **EVA2.0**, a large-scale pre-trained open-domain Chinese dialogue model with 2.8 billion parameters, which is also the largest open-source Chinese dialogue model. We also conduct extensive experiments to investigate some decoding strategies and prevent the contradictory generation of our system.
 
