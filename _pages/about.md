@@ -49,7 +49,7 @@ Propose **EVA2.0**, a large-scale pre-trained open-domain Chinese dialogue model
 
 # Service and Membership
 
-1. Reviewer (EMNLP 2022)
+1. Reviewer (ACL 2023, EMNLP 2022)
 2. Member of the Bodybuilding Team of Tsinghua University (from 2022)
 3. Vice President of the Student Winter Swimming Association of Tsinghua University (from 2022)
 4. Member of the Student Winter Swimming Association of Tsinghua University (from 2021)
