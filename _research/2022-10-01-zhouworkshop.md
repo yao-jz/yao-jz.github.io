@@ -17,7 +17,7 @@ In this project, I developed multimodal fusion networks to perform the helpfulne
 
 ### Workshop of Multimodal Machine Learning
 
-The workshop is about Multimodal Machine Learning. I did a literature survey, brainstormed on new possibilities (further applications and MoE + Multimodal), and gave a presentation about the topic(My slide is shared [**HERE**](<https://yao-jz.github.io/files/workshop/multimodal.pdf>)).
+The workshop is about Multimodal Machine Learning. I did a literature survey, brainstormed on new possibilities (further applications and MoE + Multimodal), and gave a presentation about the topic (My slide is shared [**HERE**](<https://yao-jz.github.io/files/workshop/multimodal.pdf>)).
 
 <!-- 
 The workshop is about Multimodal Machine Learning. At the same time, inspired by the [Language-Image Mixture of Experts](https://arxiv.org/abs/2206.02770) (also refer to [this Google Blog](https://ai.googleblog.com/2022/06/limoe-learning-multiple-modalities-with.html)) proposed by Google recently, I am quite interested in the combination of Mixture of Experts architecture and Multimodal Information. After my literature research, I wrote a research proposal and designed experiments for the Multitask Multimodal Mixture of Experts approach.

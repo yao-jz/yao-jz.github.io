@@ -9,11 +9,15 @@ redirect_from:
 ---
 Hello, I'm Jianzhu Yao!
 
-I am a senior undergraduate student at the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). My primary research interests are in the fields of machine learning and its various applications, including Natural Language Processing, Computational Biology, Mixture of Experts, and Distributed Computing techniques for Deep Learning models.
+I am a senior undergraduate student at the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/).
 
-I am now a research intern at Zhou Group in Tsinghua University, advised by Prof. [Bowen Zhou](https://scholar.google.com/citations?hl=en&user=h3Nsz6YAAAAJ), working on the open-vocabulary multi-hashtag generation for social media posts. Before that, I am honored to work in the [NLP group](https://www.cs.washington.edu/research/nlp) of [University of Washington](https://www.cs.washington.edu/), Seattle, advised by Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang/), working on biomedical information retrieval and scientific dataset recommendations. I am also honored to work with Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml) in [CoAI](http://coai.cs.tsinghua.edu.cn/) group, where I constructed a story dialogue dataset, explored a character modeling approach, and contributed to an Open-Domain Dialogue System [EVA1.0 and EVA2.0](https://github.com/thu-coai/EVA).
+<!-- My primary research interests are in the fields of machine learning and its various applications, including Natural Language Processing, Computational Biology, Mixture of Experts, and Distributed Computing techniques for Deep Learning models. -->
 
-I also interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) (MSRA), Natural Language Computing Group, working with Dr. [Tao Ge](https://www.microsoft.com/en-us/research/people/tage/), working on the Mixture of Experts models' inference acceleration and memory optimization.
+I am now a research intern at Zhou Group in Tsinghua University, advised by Prof. [Bowen Zhou](https://scholar.google.com/citations?hl=en&user=h3Nsz6YAAAAJ), working on the open-vocabulary multi-hashtag generation for social media posts. Before that, I am honored to work in the [NLP group](https://www.cs.washington.edu/research/nlp) of [University of Washington](https://www.cs.washington.edu/), Seattle, advised by Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang/), working on biomedical information retrieval and scientific dataset recommendations. I am also honored to work with Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml) in [CoAI](http://coai.cs.tsinghua.edu.cn/) group.
+
+<!-- , where I constructed a story dialogue dataset, explored a character modeling approach, and contributed to an Open-Domain Dialogue System [EVA1.0 and EVA2.0](https://github.com/thu-coai/EVA). -->
+
+I interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) (MSRA), Natural Language Computing Group, working with Dr. [Tao Ge](https://www.microsoft.com/en-us/research/people/tage/), working on the Mixture of Experts models' inference acceleration and memory optimization.
 
 Papers
 ============
